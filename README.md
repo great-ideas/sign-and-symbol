@@ -1,2 +1,1 @@
-# sign-and-symbol
-Sign and Symbol
+# Sign and Symbol
